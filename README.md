@@ -1,5 +1,5 @@
 # UM Redirect Logincheck
-Extension to Ultimate Member to redirect user at login with account status not approved.
+Extension to Ultimate Member to redirect user at login if account status is not approved.
 ## Settings
 UM Settings -> Appearance -> Login Form
 
